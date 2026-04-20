@@ -1,0 +1,8 @@
+lerobot[gpu]
+ipykernel
+ipywidgets
+transformers
+accelerate
+torch
+num2words
+python-dotenv
