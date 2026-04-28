@@ -1,4 +1,4 @@
-lerobot[gpu]
+lerobot[smolvla]
 ipykernel
 ipywidgets
 transformers
